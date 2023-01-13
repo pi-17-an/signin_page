@@ -48,7 +48,7 @@ class Profile extends StatelessWidget {
                   width: 130,
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(9),
-                      color: Colors.red),
+                      color: Colors.blue),
                   child: Padding(
                     padding: EdgeInsets.all(12.0),
                     child: Text(
